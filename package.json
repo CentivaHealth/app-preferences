@@ -1,0 +1,81 @@
+{
+  "_from": "git+https://github.com/NemSavic/me.apla.cordova.app-preferences.git#cordova-9.0.0",
+  "_id": "cordova-plugin-app-preferences@0.99.3",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-app-preferences",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/NemSavic/me.apla.cordova.app-preferences.git#cordova-9.0.0",
+    "rawSpec": "https://github.com/NemSavic/me.apla.cordova.app-preferences.git#cordova-9.0.0",
+    "saveSpec": "git+https://github.com/NemSavic/me.apla.cordova.app-preferences.git#cordova-9.0.0",
+    "fetchSpec": "https://github.com/NemSavic/me.apla.cordova.app-preferences.git",
+    "gitCommittish": "cordova-9.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/NemSavic/me.apla.cordova.app-preferences.git#92b0e43424d79b0d6e528c1758b83576275e47c4",
+  "_spec": "https://github.com/NemSavic/me.apla.cordova.app-preferences.git#cordova-9.0.0",
+  "_where": "/Users/mac/HIT/ionic-hit-foundation",
+  "author": {
+    "name": "Ivan Baktsheev"
+  },
+  "bin": {
+    "cordova-app-preferences-generator": "bin/build-app-settings.js"
+  },
+  "bugs": {
+    "url": "https://github.com/apla/me.apla.cordova.app-preferences/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-app-preferences",
+    "platforms": [
+      "android",
+      "ios",
+      "osx",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "blackberry10"
+    ]
+  },
+  "dependencies": {
+    "cordova-lib": "^9.0.0"
+  },
+  "deprecated": false,
+  "description": "Application preferences plugin and preference pane generator",
+  "devDependencies": {
+    "cordova": ">=5.4.1",
+    "elementtree": "^0.1.6",
+    "ios-sim": ">=5.0.5",
+    "jasmine": "^2.3.2",
+    "plist": "1.1.0",
+    "q": "^1.4.1",
+    "serve-me": "^0.8.2"
+  },
+  "homepage": "https://github.com/apla/me.apla.cordova.app-preferences",
+  "keywords": [
+    "preferences",
+    "settings",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-osx",
+    "cordova-wp7",
+    "cordova-wp8",
+    "cordova-windows",
+    "cordova-windows8",
+    "cordova-blackberry10"
+  ],
+  "license": "Apache-2.0",
+  "name": "cordova-plugin-app-preferences",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apla/me.apla.cordova.app-preferences.git"
+  },
+  "version": "0.99.3"
+}
